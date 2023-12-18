@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+
+[[main]]
+  name = "Presentación"
+  url = "#home"
+  weight = 10
+  parent = "home"
+  
+[[main]]
+  name = "Objetivos"
+  url = "#aims"
+  weight = 10
+  parent = "home"
+
+[[main]]
+  name = "Redes Sociales"
+  weight = 20
+  identifier = "redes"
+
+[[main]]
+  name = "Youtube"
+  url = "www.youtube.com"
+  weight = 20
+  parent = "redes"
+  
+
+[[main]]
+  name = "Instagram"
+  url = "www.instagram.com"
+  weight = 20
+  parent = "redes"
+  
