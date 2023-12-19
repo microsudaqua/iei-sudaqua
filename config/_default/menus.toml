@@ -37,4 +37,10 @@
   url = "www.instagram.com"
   weight = 20
   parent = "redes"
+
+[[main]]
+  name = "µSudAqua"
+  weight = 30
+  url = "https://microsudaqua.netlify.app/"
+  identifier = "usud"
   
