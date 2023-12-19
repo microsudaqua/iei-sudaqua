@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 10 # Order that this section will appear.
 
 
-# title = "MicroSudAqua"
-# subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
+# title = "IEI - SudAqua"
+# subtitle = "Red Colaborativa para investigadores en inicio de carrera en ecologia Microbiana de América Latina"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,8 +50,7 @@ weight = 10 # Order that this section will appear.
  css_class = ""
 +++
 #
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
 
-La Red MicroSudAqua (µSudAqua) nuclea a investigadores y estudiantes que trabajan en ecología acuática microbiana de América Latina. Con la conformación de esta Red buscamos aunar esfuerzos, potenciar el trabajo colectivo y consolidar un espacio colaborativo para el impulso del área en la región.
+**¿Quienes somos?**
 
-Tenemos como premisa explotar los insumos que poseemos para explorar al máximo problemas que exceden a lo que podemos desarrollar individualmente. Aspiramos a fomentar la inclusión en todas sus dimensiones, y generar una convivencia donde prime la camaradería y el espíritu de colaboración, desarrollar un sentimiento de pertenencia, compromiso y orgullo por el trabajo colectivo.
+Somos investigadores latinoamericanos en etapas iniciales de carrera interesados ​​en el estudio de la ecología microbiana en los ecosistemas acuáticos del continente americano.

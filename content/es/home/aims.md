@@ -50,64 +50,8 @@ title = "Nuestras Metas"
 +++
 #
 
-**¿Cuáles son los principales objetivos de la Red?**
-
-- Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica,
-- Desarrollar un sentido de comunidad científica regional,
-- Proveer un espacio fructífero para la colaboración a largo plazo en investigación y formación de recursos humanos en el área.
-
-
-**¿Quiénes integramos la Red?**
-
-Integramos la Red investigadores y estudiantes con interés explícito en participar activamente, con iniciativa para llevar adelante actividades dentro de la misma, compromiso, colegialidad académica (respeto intelectual, solidaridad, espíritu colaborativo) y reciprocidad.
-
-
-**¿Qué valor agregado nos otorga la Red?**
-
-La Red otorga valor agregado a nuestro trabajo a partir de la construcción colectiva, en lo que se refiere a:
-
-- Formación: permite expandir nuestro repertorio técnico y conceptual. Responder a necesidades comunes de formación avanzada (ej. Bioinformática, Bioestadística, Ecología teórica, Ecología de paisaje, GIS, Teledetección) mediante la interacción, organización de cursos y talleres temáticos.
-
-- Comunidad: nos hace parte de un colectivo inclusivo en cuanto a género, temáticas y geografías que convive en un ambiente solidario y nos permite:
-
-	- Multiplicar el impacto científico, ambiental y social de nuestra ciencia,
-	- Resolver problemas que no podríamos abordar individualmente,
-	- Generar proyectos de investigación colaborativa,
-	- Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
-
-
-- Financiación: apuntamos a que la pertenencia a la Red agregue credibilidad y robustez a demandas locales de financiamiento. También permite explorar programas de financiamiento colaborativo a gran escala, a los cuales los grupos individualmente no podrían aspirar.
-
-
-**¿Con qué contamos al conformar esta Red?**
-
-- Con la capacidad y experiencia de sus integrantes en múltiples dimensiones,
-- Con la posibilidad de aunar ejes ambientales a escala Latinoamericana,
-- Con la posibilidad de realizar abordajes desde diferentes comunidades (virus, arqueas, bacterias, protistas, algas, zooplancton) y aspectos (taxonomía, genómica, filogenia, funcionalidad, metabolismo).
-
-
-**¿Cuáles son algunas de las acciones propuestas para la Red?**
-
-- Estudiar problemas novedosos y emergentes a una escala temporal y espacial,
-- Generar un desarrollo conceptual de problemáticas con una perspectiva regional,
-- Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano,
-- Desarrollar perspectivas regionales de problemas globales,
-- Combinar técnicas que generalmente se aplican separadamente,
-- Realizar estudios comparativos,
-- Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos,
-- Diseñar muestreos que respondan a preguntas específicas,
-- Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos,
-- Centralizar el procesamiento de muestras, y asegurar el control de calidad,
-- Generar y mantener observatorios.
-
-
-**¿Cómo funciona la Red?**
-
-La Red posee una estructura no jerárquica, con iniciativas que surgen de la base de sus miembros (“bottom-up”) y que respetan el interés del conjunto. Un grupo de investigadores orienta y conduce sus actividades.
-
-Con una frecuencia bianual se realizan talleres presenciales con sede rotativa. En ellos se presenta el trabajo realizado hasta el momento y se toman las definiciones acerca de las actividades a realizar en el período entre los mismos.
-
-
-**¿Cómo integrarse a la Red?**
-
-La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la casilla de correo **microsudaqua2017@gmail.com**.
+- Mantener un espacio para encontrarse con graduados y posdoctorales para discusiones en temas particulares para el desarrollo profesional.
+- Conocer oportunidades de becas y proyectos a nivel regional e internacional.
+- Divulgar eventos científicos de interés (e.g., charlas, workshops, cursos).
+- Compartir y conocer  posibilidades de estancias cortas en otros centros de investigación.
+- Organizar grupos de trabajo entre miembros de EIE de la red para tratar temas particulares en Ecología microbiana acuática.
