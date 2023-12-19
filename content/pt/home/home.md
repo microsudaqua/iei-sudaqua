@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 10 # Order that this section will appear.
 
 
-# title = "IEI - SudAqua"
-# subtitle = "Rede Colaborativa para pesquisadores em inicio de carreira em ecologia Microbiana da América Latina"
+title = "IEI - SudAqua"
+subtitle = "Rede Colaborativa para pesquisadores em inicio de carreira em ecologia Microbiana da América Latina"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
