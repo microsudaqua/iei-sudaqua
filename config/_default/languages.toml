@@ -49,7 +49,7 @@
   
 [[pt.menu.main]]
   name = "Instagram"
-  url = "www.instagram.com"
+  url = "https://www.instagram.com"
   weight = 20
   parent = "redes"
 
