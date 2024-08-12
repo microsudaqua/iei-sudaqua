@@ -11,19 +11,19 @@
 [[main]]
   name = "Presentación"
   url = "#home"
-  weight = 10
+  weight = 11
   parent = "home"
   
 [[main]]
   name = "Objetivos Generales"
   url = "#aims"
-  weight = 10
+  weight = 12
   parent = "home"
 
 [[main]]
   name = "Coordinadores"
   url = "#people"
-  weight = 10
+  weight = 13
   parent = "home"
 
 [[main]]
