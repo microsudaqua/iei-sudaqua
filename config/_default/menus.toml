@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Coordinadores"
-  url = "#peoples"
+  url = "#people"
   weight = 10
   parent = "home"
 
@@ -32,7 +32,7 @@
   identifier = "meetings"
 
 [[main]]
-  name = "Objetivos"
+  name = "Objetivos1"
   url = "#meetings"
   weight = 20
   parent = "meetings"
@@ -43,7 +43,7 @@
   identifier = "redes"
 
 [[main]]
-  name = "Objetivos"
+  name = "Objetivos2"
   url = "#social_media"
   weight = 30
   parent = "redes"
