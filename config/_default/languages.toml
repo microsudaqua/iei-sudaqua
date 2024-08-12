@@ -20,12 +20,12 @@
  #   weight = 10
     
 [[pt.menu.main]]
-  name = "Início"
+  name = "Home"
   weight = 10
   identifier = "home"
 
 [[pt.menu.main]]
-  name = "Apresentação"
+  name = "Presentación"
   url = "#home"
   weight = 10
   parent = "home"
@@ -37,25 +37,48 @@
   parent = "home"
 
 [[pt.menu.main]]
-  name = "Redes Sociais"
+  name = "Coordinadores"
+  url = "#people"
+  weight = 10
+  parent = "home"
+
+[[pt.menu.main]]
+  name = "Encuentros Virtuales"
   weight = 20
+  identifier = "meetings"
+
+[[pt.menu.main]]
+  name = "Objetivos1"
+  url = "#meetings"
+  weight = 20
+  parent = "meetings"
+
+[[pt.menu.main]]
+  name = "Redes Sociales"
+  weight = 30
   identifier = "redes"
+
+[[pt.menu.main]]
+  name = "Objetivos2"
+  url = "#social"
+  weight = 30
+  parent = "redes"
 
 [[pt.menu.main]]
   name = "Youtube"
   url = "https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ"
-  weight = 20
+  weight = 30
   parent = "redes"
   
 [[pt.menu.main]]
   name = "Instagram"
   url = "https://www.instagram.com/microsudaqua/"
-  weight = 20
+  weight = 30
   parent = "redes"
 
 [[pt.menu.main]]
   name = "µSudAqua"
-  weight = 30
+  weight = 40
   url = "https://microsudaqua.netlify.app/"
   identifier = "usud"
   

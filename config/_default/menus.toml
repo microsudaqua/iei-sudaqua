@@ -54,7 +54,6 @@
   weight = 30
   parent = "redes"
   
-
 [[main]]
   name = "Instagram"
   url = "https://www.instagram.com/microsudaqua/"
