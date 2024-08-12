@@ -44,7 +44,7 @@
 
 [[main]]
   name = "Objetivos2"
-  url = "#social_media"
+  url = "#social"
   weight = 30
   parent = "redes"
 
