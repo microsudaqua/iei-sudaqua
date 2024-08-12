@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Uruguay
+role: Uruguai
 
 # Organizations/Affiliations
 organizations:
