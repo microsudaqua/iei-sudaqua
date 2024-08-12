@@ -1,14 +1,15 @@
 +++
-# A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 40 # Order that this section will appear.
 
-title = "Coordinadores"
+
+title = "Serie de encuentros virtuales"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -21,7 +22,7 @@ title = "Coordinadores"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "Grey10"
+   color = "Grey15"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
@@ -50,11 +51,9 @@ title = "Coordinadores"
 +++
 #
 
-**Argentina**
-Paula Huber
 
-**Brasil**
-Michaela de Melo
+*Resumen*
 
-**Colombia**
-Juan Pablo Niño
+Desde 2023, el grupo de Investigadores en Etapa de Iniciación (IEI) de la red uSudAqua ha iniciado una serie de encuentros virtuales en los que se discuten diversos temas relacionados con la ciencia, la comunicación, la formación y más. El objetivo de estos encuentros es fomentar la interacción entre los miembros de la red, visibilizar los nuevos trabajos de investigación de los grupos y proporcionar entrenamiento y formación.
+Estos ciclos se realizan de manera mensual o bimensual. Los ponentes son generalmente miembros de la red, aunque también se invita a ponentes externos.
+La red microSudAqua busca, con este tipo de iniciativas, mantener la unidad e interacción entre los miembros, destacar los trabajos de sus integrantes y aprovechar el potencial de interdisciplinariedad y diversidad de enfoques dentro de la red.

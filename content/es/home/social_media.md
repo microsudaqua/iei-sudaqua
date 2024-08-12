@@ -1,14 +1,15 @@
 +++
-# A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50 # Order that this section will appear.
 
-title = "Coordinadores"
+
+title = "Redes Sociales"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -21,7 +22,7 @@ title = "Coordinadores"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "Grey10"
+   color = "Grey20"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
@@ -50,11 +51,7 @@ title = "Coordinadores"
 +++
 #
 
-**Argentina**
-Paula Huber
 
-**Brasil**
-Michaela de Melo
+*Resumen*
 
-**Colombia**
-Juan Pablo Niño
+El grupo de Redes Sociales se encarga de producir contenidos y gestionar la página oficial de [Instagram](https://www.instagram.com/microsudaqua/) de la Red µSudAqua. Se creó con el objetivo de difundir las ideas y actividades de la red, establecer una presencia en el mundo digital y llegar a científicas/os latinoamericanos en el inicio de sus carreras en el campo de la ecología microbiana acuática.
