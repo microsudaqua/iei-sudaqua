@@ -52,6 +52,6 @@ title = "Redes Sociales"
 #
 
 
-*Resumen*
+*Resumo*
 
-El grupo de Redes Sociales se encarga de producir contenidos y gestionar la página oficial de [Instagram](https://www.instagram.com/microsudaqua/) de la Red µSudAqua. Se creó con el objetivo de difundir las ideas y actividades de la red, establecer una presencia en el mundo digital y llegar a científicas/os latinoamericanos en el inicio de sus carreras en el campo de la ecología microbiana acuática.
+O grupo de Redes Sociais é responsável pela produção de conteúdo e gerenciamento da página oficial da Rede MicroSudAqua no [Instagram](https://www.instagram.com/microsudaqua/). Surgiu com o objetivo de difundir as ideias e atividades da rede, marcar presença no mundo digital e alcançar cientistas latinoamericanos em início de carreira na área de ecologia microbiana aquática.
