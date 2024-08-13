@@ -33,7 +33,7 @@
 
 [[main]]
   name = "Objetivos Encuentros"
-  url = "#meetings"
+  url = "other/meetings"
   weight = 20
   parent = "meetings"
 
@@ -44,7 +44,7 @@
 
 [[main]]
   name = "Objetivos Redes"
-  url = "#social"
+  url = "other/social"
   weight = 31
   parent = "redes"
 
