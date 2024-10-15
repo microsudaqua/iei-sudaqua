@@ -52,6 +52,7 @@ title = "Serie de encuentros virtuales"
 #
 
 
+
 *Resumen*
 
 Desde 2023, el grupo de Investigadores en Etapa de Iniciación (IEI) de la red µSudAqua ha iniciado una serie de encuentros virtuales en los que se discuten diversos temas relacionados con la ciencia, la comunicación, la formación y más. El objetivo de estos encuentros es fomentar la interacción entre los miembros de la red, visibilizar los nuevos trabajos de investigación de los grupos y proporcionar entrenamiento y formación.
