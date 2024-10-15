@@ -54,6 +54,6 @@ title = "Serie de encuentros virtuales"
 
 *Resumo*
 
-Desde 2023, o grupo de Pesquisadores em Inicio de Carreira da rede µSudAqua iniciou uma série de encontros virtuais em que se discutem diversos temas relacionado à ciência, comunicação, formação, entre outros. O objetivo destes encontros é fomentar a interação entre os membros da rede, tornar visíveis novos trabalhos de investigação dos grupos e proporcionar treinamento e formação.
+Desde 2023, o grupo de Pesquisadores em Inicio de Carreira da rede µSudAqua iniciou uma série de encontros virtuais em que se discutem diversos temas relacionados à ciência, comunicação, formação, entre outros. O objetivo destes encontros é fomentar a interação entre os membros da rede, tornar visíveis novos trabalhos de investigação dos grupos e proporcionar treinamento e formação.
 Estes ciclos se realizam de maneira (bi)mensal. Os apresentadores geralmente são membros da rede, mas apresentadores externos também podem ser convidados.
 Assim, a rede µSudAqua busca manter a unidade e interação entre os membros, destacar os trabalhos dos integrantes e aproveitar o potencial de interdisciplinaridade e diversidade de focos dentro da própria rede.
